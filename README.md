@@ -14,6 +14,7 @@ A collection of resources from the #science channel in The Programmers Hangout.
   - [Botany](#botanyhibiscus)
   - [Zoology](#zoologysloth)
   - [Ecology](#ecologyfallen_leafearth_americas)
+  - [Evolutionary History](#evolutionary_history)
 - [Guidelines](#guidelinesscroll)
   
 ## General Science:seedling:
@@ -81,7 +82,7 @@ Life Science, commonly known as Biology, is the science of life and living organ
 ### Biochemistry:dna:	
 The study of chemical processes within or relating to living organisms. This is a sub-discipline of Biology and Chemistry. It is related to the fields of: Molecular Biology, Cell Biology, Genetics, and Physiology.
 #### Tutorials
-#### Textbooks/Books
+#### Textbooks/Books 
 #### Useful Links
 #### Youtube Channels
 
@@ -113,6 +114,16 @@ The study of organisms and their biophysical environment, including both biotic 
 #### Textbooks/Books
 #### Useful Links
 #### Youtube Channels
+
+### Evolutionary History
+The history of the evolution of organisms.
+#### Tutorials
+#### Textbooks/Books
+- [Sapiens](http://pdf.allbookshub.com/general/sapiens.pdf) - A groundbreaking work in the general evolution of human beings : the author takes us on an enthralling adventure to rediscover our past and our truth.
+- [Guns, Germs and Steel](https://www.docdroid.net/uUSO3JN/231929732-jared-diamond-guns-germs-steel-pdf#page=16) - Jared Diamond explains in this transdisciplinary Pulitzer Prize - winning book the history of human, and natural evolution and civilization.
+#### Useful Links
+#### Youtube Channels
+
 
 ### Guidelines:scroll:
 Please follow these general guidlines when contributing to this list!
